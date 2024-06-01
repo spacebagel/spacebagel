@@ -9,7 +9,6 @@
 
 
 ### <code>About Me 🥯️</code>
-I'm a digital wanderer exploring the boundless realms of the internet, advocating for privacy, security, and freedom. My journey is shrouded in mystery, but my commitment to the cause is unwavering.
 ```json
 {
     "name": "NULLABLE",
