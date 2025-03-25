@@ -23,9 +23,9 @@
         "philanthropist": false,
     },
     "skills": {
-        "PL": ["C#", "C++", "JS", "Python"],
-        "UI": ["HTML", "CSS", "XAML", "WPF"],
-        "OS": ["Debian", "Windows", "Android"],
+        "PL": ["C#", "C", "JS", "Python"],
+        "UI": ["HTML", "XAML", "WPF", "WF"],
+        "OS": ["Arch", "Windows", "Android"],
         "Other": ["SQL", "XAF", "AI"]
     }
 }
